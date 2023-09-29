@@ -141,6 +141,16 @@ cover/
 *.pot
 digimag/.
 Corpus/
+comment.csv
+comment.xlsx
+didikala_TM.ipynb
+persian_news.ipynb
+utils
+x
+asriran.csv
+nlp.ipynb
+chunker.model
+pos_tagger.model
 # Django stuff:
 *.log
 local_settings.py
